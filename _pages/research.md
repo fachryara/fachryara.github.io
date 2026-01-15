@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 **Household preferences for rooftop solar photovoltaic systems: Evidence from a survey-based study in five Indonesian cities** (with Alin Halimatussadiah, Robi Kurniawan and Doan Nainggolan). 2025. *Energy For Sustainable Development*  
-[Abstract](#solar) | [Paper](https://www.sciencedirect.com/science/article/pii/S0973082625001218)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0973082625001218)
 
 <details id="solar">
 <summary>Abstract</summary>
