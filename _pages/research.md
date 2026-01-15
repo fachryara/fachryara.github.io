@@ -18,7 +18,7 @@ Understanding the underlying decisions of rooftop solar PV adopters in emerging 
 </details>
 
 **Assessing Risks of Decarbonization Pathways in Indonesia** (with Alin Halimatussadiah, Roes Ebara Gikami Lufti, Andhika Pratama, and Dandi Wibowo). 2024. *Asian Economic Papers*  
-[Abstract](#decarbonization) | [Paper](https://doi.org/10.1162/asep_a_00912)
+[Paper](https://doi.org/10.1162/asep_a_00912)
 
 <details id="decarbonization">
 <summary>Abstract</summary>
@@ -26,7 +26,7 @@ To limit global warming below the 1.5°C target, over 145 countries have establi
 </details>
 
 **The Country of Perpetual Potential: Why is it so Difficult to Procure Renewable Energy in Indonesia?** (with Alin Halimatussadiah, Wikus Kruger, Fabian Wagner, Roes Ebara Gikami Lufti, Lena Kitzing). 2024. *Renewable and Sustainable Energy Reviews*  
-[Abstract](#procurement) | [Paper](https://doi.org/10.1016/j.rser.2024.114627)
+[Paper](https://doi.org/10.1016/j.rser.2024.114627)
 
 <details id="procurement">
 <summary>Abstract</summary>
@@ -34,7 +34,7 @@ Indonesia must almost double its renewable power generation to meet its 2025 tar
 </details>
 
 **Co-management of Large-Scale and Medium-Scale Fisheries: An Assessment of Fisheries Tax Systems in Indonesia** (with Alin Halimatussadiah, Satoshi Yamazaki, Rachel Nichols, Umi Muawwanah, and Muhammad Adriansyah). 2023. *Marine Policy*  
-[Abstract](#fishtax) | [Paper](https://doi.org/10.1016/j.marpol.2022.105458)
+[Paper](https://doi.org/10.1016/j.marpol.2022.105458)
 
 <details id="fishtax">
 <summary>Abstract</summary>
@@ -42,7 +42,7 @@ Many fish stocks are jointly exploited by industrial vessels that employ modern 
 </details>
 
 **Local Budget Resilience in Times of COVID-19 Crisis: Evidence from Indonesia** (with Nauli Desdiani, Syahda Sabrina, Meila Husna, Amalia Budiman, and Alin Halimatussadiah). 2022. *Economies*  
-[Abstract](#local) | [Paper](https://doi.org/10.3390/economies10050108)
+[Paper](https://doi.org/10.3390/economies10050108)
 
 <details id="local">
 <summary>Abstract</summary>
@@ -54,7 +54,7 @@ The COVID-19 pandemic has put immense pressure on the fiscal situation. Central 
 ---
 
 **Employment Impacts of Energy Transition in Indonesia** (with Alin Halimatussadiah, Milda Irhamni, Teuku Riefky, and Muhammad Nur Ghiffari). 2024. 
-[Abstract](#employment) | [WP LPEM #081](https://lpem.org/repec/lpe/papers/WP202481.pdf)
+[WP LPEM #081](https://lpem.org/repec/lpe/papers/WP202481.pdf)
 
 <details id="employment">
 <summary>Abstract</summary>
@@ -62,7 +62,7 @@ Indonesia has pledged an ambitious target for decarbonizing its energy sectors. 
 </details>
 
 **Indonesia's Decarbonization Plans Diagnostic: A Policy Paper** (with with Alin Halimatussadiah, Muhammad Adriansyah, Muhammad Yudha Pratama, Teuku Riefky, Jiehong Lou). 2024. 
-[Abstract](#diagnostic) | [WP LPEM #080](https://lpem.org/repec/lpe/papers/WP202480.pdf)
+[WP LPEM #080](https://lpem.org/repec/lpe/papers/WP202480.pdf)
 
 <details id="diagnostic">
 <summary>Abstract</summary>
@@ -70,7 +70,7 @@ One of the central commitments Indonesia is pursuing is integrating a green econ
 </details>
 
 **Climate and Environmental Financing at Regional Level: Amplifying and Seizing the Opportunities** (with Nauli Desdiani, Amalia Budiman, Syahda Sabrina, Meila Husna, Rosalia Violeta, Adho Adhinegoro, and Alin Halimatussadiah). 2021. 
-[Abstract](#climfin) | [WP LPEM #067](https://lpem.org/wp-content/uploads/2021/12/WP-LPEM-067_Climate_and_Environmental_Financing_at_Regional_Level.pdf)
+[WP LPEM #067](https://lpem.org/wp-content/uploads/2021/12/WP-LPEM-067_Climate_and_Environmental_Financing_at_Regional_Level.pdf)
 
 <details id="climfin">
 <summary>Abstract</summary>
@@ -81,7 +81,6 @@ The establishment of national climate policy targets has forced the local govern
 
 ---
 **Are Just Energy Transition Investment Plans tailored to country-specific challenges? Comparing South Africa and Indonesia** (with Wikus Kruger, Alin Halimatussadiah, Fabian Wagner, Mavi Magagula, and Priskila Nandita)
-[Abstract](#jetp)
 
 <details id="jetp">
 <summary>Abstract</summary>
