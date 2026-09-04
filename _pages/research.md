@@ -9,6 +9,15 @@ author_profile: true
 
 ---
 
+**Are Just Energy Transition Investment Plans tailored to country-specific challenges? Comparing South Africa and Indonesia** (with Wikus Kruger, Alin Halimatussadiah, Fabian Wagner, Mavi Magagula, and Priskila Nandita). 2026. *Sustainable Futures*
+[Paper](https://www.sciencedirect.com/science/article/pii/S2666188826004764#abs0001)
+
+<details id="jetp">
+<summary>Abstract</summary>
+This paper provides a comparative analysis of the Just Energy Transition Investment Plans (JET-IPs) of South Africa and Indonesia, focusing on their effectiveness in driving private investment in renewable energy (RE). Using a three-level framework, it examines country-specific barriers and enablers at the country, programme, and project levels. Both JET-IPs aim to align economic development and emission reduction goals, with significant reliance on private investment for RE projects. The analysis reveals key differences in energy policy frameworks, sectoral planning approaches, and governance structures between the two countries. It underscores the pivotal role of concessional finance and regulatory reforms in addressing investment risks, emphasizing the need for stronger institutional coordination and long-term planning to accelerate the energy transition. Lessons from the two JET-IPs offer insights for other countries embarking on similar initiatives, particularly in tailoring energy transition strategies to address unique domestic challenges.
+</details>
+
+
 **Household preferences for rooftop solar photovoltaic systems: Evidence from a survey-based study in five Indonesian cities** (with Alin Halimatussadiah, Robi Kurniawan and Doan Nainggolan). 2025. *Energy For Sustainable Development*  
 [Paper](https://www.sciencedirect.com/science/article/pii/S0973082625001218)
 
@@ -49,7 +58,7 @@ Many fish stocks are jointly exploited by industrial vessels that employ modern 
 The COVID-19 pandemic has put immense pressure on the fiscal situation. Central revenues have decelerated while expenditures had to be increased to facilitate economic recovery. Local governments faced even harder challenges as intergovernmental transfers were reduced and room for mobilizing alternative finances was limited. This paper employs qualitative and secondary data analysis on local budget and fiscal capacities at the subnational level in Indonesia to find insights into the implications and responses of the provincial government in a decentralized economy during the pandemic. Provinces with a high dependence on intergovernmental transfer are struggling to adopt a countercyclical mitigative fiscal policy. However, provinces with high local own-source revenue have suffered the most during the crisis as low economic activity reduced tax revenues and indirectly lead to lower fiscal space. As fiscal policy is critical to containing the pandemic and facilitating recovery, this paper proposes several strategies toward a more sustainable fiscal policy for rebuilding local government capacity in the medium-to-long term in the aftermath of the crisis.
 </details>
 
-## Working Papers
+## Policy Papers
 
 ---
 
@@ -80,11 +89,5 @@ The establishment of national climate policy targets has forced the local govern
 ## Work in Progress
 
 ---
-**Are Just Energy Transition Investment Plans tailored to country-specific challenges? Comparing South Africa and Indonesia** (with Wikus Kruger, Alin Halimatussadiah, Fabian Wagner, Mavi Magagula, and Priskila Nandita)
-
-<details id="jetp">
-<summary>Abstract</summary>
-This paper provides a comparative analysis of the Just Energy Transition Investment Plans (JET-IPs) of South Africa and Indonesia, focusing on their effectiveness in driving private investment in renewable energy (RE). Using a three-level framework, it examines country-specific barriers and enablers at the country, programme, and project levels. Both JET-IPs aim to align economic development and emission reduction goals, with significant reliance on private investment for RE projects. The analysis reveals key differences in energy policy frameworks, sectoral planning approaches, and governance structures between the two countries. It underscores the pivotal role of concessional finance and regulatory reforms in addressing investment risks, emphasizing the need for stronger institutional coordination and long-term planning to accelerate the energy transition. Lessons from the two JET-IPs offer insights for other countries embarking on similar initiatives, particularly in tailoring energy transition strategies to address unique domestic challenges.
-</details>
 
 
